@@ -1,7 +1,7 @@
 '''
-Preliminary XLMR Adapters script in Table 1 in the paper.
-Train : EN
-Test : EN, NL, KT
+Preliminary XLMR Adapters (XLMR Ad) script in Table 1 in the paper.
+Train Data : EN
+Test Data : EN, NL, KT
 '''
 
 CURRENT_FOLD = 0 # 0, 1, 2, 3, 4

@@ -1,7 +1,7 @@
 '''
-Script to run Llama Fine Tuning in Table 2. 
-Train : EN + KT
-Test : KT
+Script to run Llama Fine Tuning (LLAMA FT) in Table 2. 
+Train Data : EN + KT
+Test Data : KT
 '''
 CURRENT_FOLD = 0
 HF_TOKEN = "hf_...." # PUT IN YOUR TOKEN HERE, MAKE SURE IT HAS ACCESS TO THE META LLAMA MODELS ON HUGGINGFACE

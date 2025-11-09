@@ -1,9 +1,7 @@
-# WORKS
-
 '''
-Script to run the Preliminary Llama FT, in Table 1 
-Train : EN
-Test : EN, NL, KT
+Script to run Preliminary Llama FT, in Table 1 
+Train Data : EN
+Test Data : EN, NL, KT
 '''
 
 CURRENT_FOLD = 0

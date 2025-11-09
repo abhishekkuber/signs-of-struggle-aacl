@@ -1,5 +1,4 @@
 # Code for doing the McNemar's test on the predictions of different models
-
 import numpy as np
 from mlxtend.evaluate import mcnemar_table, mcnemar
 from statsmodels.stats.multitest import multipletests

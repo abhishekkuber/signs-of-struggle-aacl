@@ -1,7 +1,7 @@
 '''
 Script to run XLMR Finetuning for the rewritten English data in Table 2. 
-Train : Rewritten EN 
-Test : KT
+Train Data : Rewritten EN 
+Test Data : KT
 '''
 CURRENT_FOLD = 0
 

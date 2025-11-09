@@ -1,8 +1,8 @@
 '''
-Script to run Llama Long prompts in stage 1. 
+Script to run Llama with Long prompts (LLAMA LP) in Table 1. 
 Since this is just prompting , there is no training data and the same script can be used for Table 1 and 2.
-Train : NONE
-Test : EN, NL, KT
+Train Data : NONE
+Test Data : EN, NL, KT
 '''
 
 CURRENT_FOLD = 0

@@ -1,7 +1,7 @@
 '''
 Script to run Empath in Table 2. 
-Train : EN + KT
-Test : KT
+Train Data : EN + KT
+Test Data : KT
 '''
 CURRENT_FOLD = 0
 

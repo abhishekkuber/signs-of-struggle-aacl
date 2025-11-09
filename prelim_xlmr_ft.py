@@ -1,7 +1,7 @@
 '''
-Preliminary XLMR Finetuning script in Table 1 in the paper.
-Train : EN
-Test : EN, NL, KT
+Preliminary XLMR Finetuning (XLMR FT) script in Table 1 in the paper.
+Train Data : EN
+Test Data : EN, NL, KT
 '''
 
 CURRENT_FOLD = 0

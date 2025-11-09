@@ -1,7 +1,7 @@
 '''
-Script to run XLMR Finetuning in Table 2. 
-Train : EN + KT
-Test : KT
+Script to run XLMR Finetuning (XLMR Ft) in Table 2. 
+Train Data : EN + KT
+Test Data : KT
 '''
 CURRENT_FOLD = 0
 

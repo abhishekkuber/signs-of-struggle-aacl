@@ -1,7 +1,7 @@
 '''
-Script to run Instruction Tuning Llama preliminary for Table 1. 
-Train : EN
-Test : EN, NL, KT
+Script to run Instruction Tuning Llama preliminary (LLAMA IT) for Table 1. 
+Train Data : EN
+Test Data : EN, NL, KT
 '''
 
 CURRENT_FOLD = 1
