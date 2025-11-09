@@ -48,6 +48,8 @@ def encode_batch(batch):
 ############################################################################################################################################################
 ## DATA
 
+
+# Load the English dataset written in the style of a Dutch teenager.
 texts = []
 with open(f'{DATA_PATH}/teenage_cog_dist.json', 'r') as f:
   texts = json.load(f)
